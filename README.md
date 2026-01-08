@@ -1,7 +1,7 @@
 ### Hello there! 👋
 I'm full-stack software developer working for the Australian Department of Health and Aged Care.
 
-Check out my personal site [here](https://coreybigboi.github.io/)
+Check out my personal site [here](https://cybr-kn1ght.github.io/)
 
 🎓 Bachelor of ICT Majoring in Software Development
 
