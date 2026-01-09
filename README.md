@@ -1,5 +1,5 @@
 ### Hello there! 👋
-I'm full-stack software developer working for the Australian Department of Health and Aged Care.
+I'm full-stack software developer working for the Australian Federal Government.
 
 Check out my personal site [here](https://cybr-kn1ght.github.io/)
 
@@ -7,7 +7,7 @@ Check out my personal site [here](https://cybr-kn1ght.github.io/)
 
 🎮 Check out some cool games I've made: https://corey-bigboi.itch.io/ 
 
-🌱 I’m currently learning ... Angular, Micronaut, and Azure 
+- 💬 Ask me about ... Angular, IdeaVim, RESTful API development
 
 ⚡ Fun fact: I worked as a BlackJack dealer for over 6 years
 <!--
