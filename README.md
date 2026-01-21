@@ -1,5 +1,5 @@
 ### Hello there! 👋
-I'm full-stack software developer working for the Australian Federal Government.
+I'm full-stack software developer working for the Australian Federal Government. At night I become a game developer - I am currently working on a top secret project in Godot!
 
 Check out my personal site [here](https://cybr-kn1ght.github.io/)
 
