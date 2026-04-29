@@ -1,4 +1,4 @@
-### Hello there! 👋
+### Hello there, I'm Corey! 👋
 I'm full-stack software developer working for the Australian Federal Government. At night I become a solo indie game developer - I am currently working on a top secret project in [Godot](https://godotengine.org/)!
 
 Check out my personal site [here](https://cybr-kn1ght.github.io/)
