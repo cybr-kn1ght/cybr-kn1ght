@@ -9,8 +9,8 @@
 |      ::::::;;::.       ||     ,%%%%%%%%%%%        || /:.\`;;|||;:/;;:\     | |     ,%%%'  %%%%%%       |
 |    .::;::::;::::.      ||    ,%%%'  )'  \%        ||:')\`:\||::/.-_':/)    | |   ,%x%) __  _%%%        |
 |   .::::::::::::::      ||   ,%x%) __   _ Y        ||`:`\\\ ;'||'.''/,.:\   | |   :3%%  =.= =.= |       |
-|   ::`_```_```;:::.     ||   :%%% ~=-. <=~|        ||==`;.:`|;::/'/./';;=   | |    :%%::.   \    |      |
-|   ::=-) :=-`  ::::     ||   :%%::. .:,\  |        ||:-/-%%% | |%%%;;_- _:  | |    `;  `   `-'  '       |
+|   ::`_```_```;:::.     ||   :%%% ~=-. <=~|        ||==`;.:`|;::/'/./';;=   | |    :%%::.   \   |       |
+|   ::=-) :=-`  ::::     ||   :%%::. .:,\  |        ||:-/-%%% | |%%%;;_- _:  | |    `;  `    -   '       |
 | `::|  / :     `:::     ||   `;%:`\. `-' .'        ||=// %wm)..(mw%`_ :`:\  | |    ``x   \___ ;         |
 |   '|  `~'     ;:::     ||    ``x`. -===-;         ||;;--', /88\ -,- :-~~|  | |     / `: .__.;          |
 |    :-:==-.   / :'      ||     / `:`.__.;          ||-;~~::'`~^~:`::`/`-=:) | |  .d8b.  :: ..`.d8b.     |
@@ -31,23 +31,23 @@ Self-Proclaimed Jedi Knight     Smuggler, Pirate         Smuggler, Pirate       
      500,000 credits            200,000 credits          100,000 credits           350,000 credits      
 
 
-                           The above are wanted for the following crimes:
+                               The above are wanted for the following crimes:                              
 
-                - Liberation of a known criminal, Princess Leia Organa of Alderaan -
-                     - Direct involvement in armed revolt against the Empire -
-                                          - High treason -
-                                           - Espionage -
-                                           - Conspiracy -
-                                - Destruction of Imperial Property -
+                    - Liberation of a known criminal, Princess Leia Organa of Alderaan -
+                         - Direct involvement in armed revolt against the Empire -
+                                              - High treason -
+                                               - Espionage -
+                                               - Conspiracy -
+                                    - Destruction of Imperial Property -
 
-                       These individuals are considered extremely dangerous.
+                           These individuals are considered extremely dangerous.
 
-                   E X P E R I E N C E D   B O U N T Y   H U N T E R S   O N L Y
+                       E X P E R I E N C E D   B O U N T Y   H U N T E R S   O N L Y
 
-              The Empire will not  be held  responsible  for any  injuries or property
-              loss arising from the  attempted apprehension of these  notorious crimi-
-              nals. Bounty is for live capture only! For more information contact your
-              local Imperial Intelligence Office.
+                  The Empire will not  be held  responsible  for any  injuries or property
+                  loss arising from the  attempted apprehension of these  notorious crimi-
+                  nals. Bounty is for live capture only! For more information contact your
+                  local Imperial Intelligence Office.
 
 
 Source: https://asciiart.website/art/2311
