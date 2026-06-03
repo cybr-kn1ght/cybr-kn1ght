@@ -3,7 +3,7 @@
                       | /\ | |__| |\ |   |   |___ |  \
                       |/  \| |  | | \|   |   |___ |__/
          F O R   C R I M E S   A G A I N S T   T H E   E M P I R E
- ________________________  _________________________  _______________________ _________________________ 
+ ________________________  _________________________  _______________________ ___________________________
 |        .......       LS||      .x%%%%%%x.         ||  ,.------;:~~:-.      | |        %%%%%%%%%        |
 |      ::::::;;::.       ||     ,%%%%%%%%%%%        || /:.\`;;|||;:/;;:\     | |     ,%%%'  %%%%%%       |
 |    .::;::::;::::.      ||    ,%%%'  )'  \%        ||:')\`:\||::/.-_':/)    | |   ,%x%) __  _%%%        |
@@ -22,12 +22,12 @@
 |                    8b  ||   ~ - |888888   `8b/:/:\||;%/ //;/(\`.':| ::`\\;`| |       |888888    888\   |
 |                    `8  ||       |888888    88\/~~;||;/~( \|./;)|.|):;\. \\-| |       (888888b   888|   |
 |                     8b ||       (888888b   88|  / ||/',:\//) ||`.|| (:\)):%| |       (888888b   888|   |
-|         .           `8 ||\       \888888   8-:   /||,|/;/(%;.||| (|(\:- ; :| |        \888888   888|    |
+|         .           `8 ||\       \888888   8-:   /||,|/;/(%;.||| (|(\:- ; :| |        \888888   888|   |
 |________/_\___________8_||_\_______\88888_.'___\__/||_%__%:__;_:`_;_:_.\%_`_| |_\_______\88888_.'88-\__/|
 
-L u k e  S k y w a l k e r      H a n   S o l o          C h e w b a c c a         C Y B R      
-Self-Proclaimed Jedi Knight     Smuggler, Pirate         Smuggler, Pirate          Programmer     
-     500,000 credits            200,000 credits          100,000 credits           350,000 credits      
+L u k e  S k y w a l k e r      H a n   S o l o          C h e w b a c c a         C Y B R      
+Self-Proclaimed Jedi Knight     Smuggler, Pirate         Smuggler, Pirate          Programmer     
+     500,000 credits            200,000 credits          100,000 credits           350,000 credits      
                The above are wanted for the following crimes:
     - Liberation of a known criminal, Princess Leia Organa of Alderaan -
          - Direct involvement in armed revolt against the Empire -
