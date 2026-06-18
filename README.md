@@ -1,6 +1,6 @@
 ### Hello there, I'm Corey! 👋
 
-I'm a Canberra-based software developer by day and solo indie game developer by night - I am currently working on a top secret project in [Godot](https://godotengine.org/)!
+I'm a Canberra-based software developer by day and solo indie game developer by night. I am currently working on a top secret project in [Godot](https://godotengine.org/)!
 
 Check out my personal site [here](https://cybr-kn1ght.github.io/)
 
