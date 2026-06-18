@@ -1,6 +1,6 @@
 ### Hello there, I'm Corey! 👋
 
-I'm software developer working for the Australian Federal Government. At night I become a solo indie game developer - I am currently working on a top secret project in [Godot](https://godotengine.org/)!
+I'm a Canberra-based software developer by day and solo indie game developer by night - I am currently working on a top secret project in [Godot](https://godotengine.org/)!
 
 Check out my personal site [here](https://cybr-kn1ght.github.io/)
 
@@ -8,9 +8,10 @@ Check out my personal site [here](https://cybr-kn1ght.github.io/)
 
 🎮 Check out some cool games I've made: https://corey-bigboi.itch.io/ 
 
-- 💬 Ask me about ... Angular, Neovim, RESTful API development
+- 💬 Ask me about ... Neovim, Zettelkasten
 
 ⚡ Fun fact: I worked as a BlackJack dealer for over 6 years
+
 <!--
 **coreybigboi/coreybigboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
