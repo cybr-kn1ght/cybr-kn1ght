@@ -8,7 +8,7 @@ Check out my personal site [here](https://cybr-kn1ght.github.io/)
 
 🎮 Check out some cool games I've made: https://corey-bigboi.itch.io/ 
 
-- 💬 Ask me about ... Neovim, Zettelkasten
+💬 Ask me about ... Neovim, Zettelkasten
 
 ⚡ Fun fact: I worked as a BlackJack dealer for over 6 years
 
